@@ -37,6 +37,6 @@ pd.read\_csv(“location of data file in pc”)
 - We performed ( “analysis of variance” ) ANOVA F- test for feature selection. This method helps us remove the features independent of the target value. This method is useful when the data set is a mix of categorical and numerical features.
 - 6 features removed were:-  histogram\_number\_of\_peaks, histogram\_number\_of\_zeroes, histogram\_tendency, histogram\_min, fetal\_movement, severe\_decelerations.
 - Standardized the data to maintain a general distribution for the feature data values 
-- Used a train- test-split with a 7:3 ratio.
+- Used a train-test split with a 7:3 ratio.
 
 
