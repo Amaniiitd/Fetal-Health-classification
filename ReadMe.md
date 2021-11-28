@@ -18,7 +18,7 @@
 
 1) Logistic regression
 1) Decision tree
-1) ` `Random Forest 
+1) Random Forest 
 1) Naive Bayes classification
 1) MLP
 1) SVM 
