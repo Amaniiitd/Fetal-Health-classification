@@ -1,4 +1,11 @@
-﻿**Libraries** :
+﻿**About** :
+
+Anticipating fetal risk is a major factor in reducing child and maternal mortality and suffering. In this context, cardiotocography (CTG) is a low-cost, well-established procedure that has been around for decades, despite lacking consensus regarding its impact on outcomes.
+
+This project aims to use machine learning models on this CTG data to develop a fetal state intelligent system that can accurately identify high-risk fetuses in the early stages of labor. This system can assist healthcare professionals in making better and timely decisions for further management of the case.
+ ﻿
+
+**Libraries** :
 
 1) numpy 
 1) seaborn
